@@ -2,6 +2,10 @@
 
 ## 주제: 효율적인 교통순환을 위한 Object Detction 기반의 차량 및 보행자용 스마트 신호등
 
+![3sFdPLOnSC0v47gUD2rTGAxwQkV5ZBlp](https://github.com/BanApp/2022_SmartCity_Ideathon_AI/assets/93313445/ac699c9f-7fb3-484e-a481-d173d394b08e)
+
+
+
 # 최종결과: 장려상(장려상 수상 + 상금 30만원):fire:
 
 ![KakaoTalk_Photo_2022-12-11-16-30-32](https://user-images.githubusercontent.com/93313445/206891579-8da97f85-e97d-4e63-8905-fd76528abbb1.jpeg)
