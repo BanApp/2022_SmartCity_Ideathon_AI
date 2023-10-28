@@ -23,9 +23,6 @@
   <tr>
       <td align="center">👦🏻 정민준 (Python)</td>
   </tr>
-  <tr>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
-  </tr>
 </table>
 <br/><br/>
 
