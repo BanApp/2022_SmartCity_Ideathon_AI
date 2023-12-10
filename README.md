@@ -6,7 +6,7 @@
 
 
 
-# 최종결과: 장려상(장려상 수상 + 상금 30만원):fire:
+# 최종결과: 장려상(장려상 수상 + 상금 30만원)
 
 ![KakaoTalk_Photo_2022-12-11-16-30-32](https://user-images.githubusercontent.com/93313445/206891579-8da97f85-e97d-4e63-8905-fd76528abbb1.jpeg)
 
