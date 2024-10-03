@@ -21,7 +21,7 @@
 
   </tr>
   <tr>
-      <td align="center">👦🏻 정민준 (Python)</td>
+      <td align="center">👦🏻  (Python)</td>
   </tr>
 </table>
 <br/><br/>
